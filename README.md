@@ -3,7 +3,7 @@
 Use this React project template as a starting point for your application
 (https://github.com/goitacademy/react-homework-template/blob/main/README.en.md)
 
-- Create a repository goit-react-hw-02-feedback.
+- Create a repository goit-react-hw-02-phonebook.
 - When submitting homework, there are two links: to the source files and the
   working pages of each assignment on `GitHub Pages'.
 - There are no errors or warnings in the console when you run the code for the
